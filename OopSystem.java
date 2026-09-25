@@ -62,7 +62,6 @@ class Gradebook {
     public void displayAllStudents() {
         System.out.println("\n--- Student List (OOP Approach) ---");
 
-
         for (Student s : students) {
             // Tawagon ang isPassing() behavior gikan sa Student object
             String status = s.isPassing() ? "Passed" : "Failed";
