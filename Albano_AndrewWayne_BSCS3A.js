@@ -1,5 +1,5 @@
 let name = "ANDREW";
-let age = 13;
+let age = 20;
 let student = true;
 
 console.log(name,age,student);
