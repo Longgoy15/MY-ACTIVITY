@@ -1,3 +1,4 @@
+// OOP SYSTEM: Gamit ang Object-Oriented Programming sa Java
 import java.util.ArrayList;
 import java.util.List;
 
