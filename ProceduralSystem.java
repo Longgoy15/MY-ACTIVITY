@@ -1,3 +1,4 @@
+// PROCEDURAL SYSTEM: Gamit ang Procedural Programming sa Java
 import java.util.ArrayList;
 import java.util.List;
 
