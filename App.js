@@ -1,3 +1,4 @@
+// React Native study planner app for managing tasks and goals
 import React, { useState } from 'react';
 import {
   FlatList,
