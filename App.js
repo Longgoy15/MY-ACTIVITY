@@ -133,7 +133,7 @@ export default function App() {
           ListEmptyComponent={
             <View style={styles.emptyState}>
               <Text style={styles.emptyTitle}>Your study plan starts here.</Text>
-              <Text style={styles.emptyCopy}>Add an assignment, reading, or study goal.</Text>
+              <Text style={styles.emptyCopy}>Add an study goal.</Text>
             </View>
           }
         />
@@ -155,7 +155,7 @@ export default function App() {
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
-    backgroundColor: '#FFFFFF',
+    backgroundColor: '#e6e5e9',
   },
   screen: {
     flex: 1,
