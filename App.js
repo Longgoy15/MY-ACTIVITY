@@ -188,7 +188,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
   },
   subtitle: {
-    color: '#718078',
+    color: '#091e13',
     fontSize: 15,
     marginTop: 10,
   },
@@ -216,7 +216,7 @@ const styles = StyleSheet.create({
     height: 44,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#315C46',
+    backgroundColor: '#539e57',
     borderRadius: 8,
   },
   addButtonDisabled: {
